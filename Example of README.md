@@ -1,5 +1,4 @@
 # Github Nooby
-'rgb(33,74,125)'
 
 This is my **_first_** attempt on Github.
 
