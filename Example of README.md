@@ -2,7 +2,7 @@
 
 This is my **_first_** attempt on Github.
 
-If you want to contact me you can reach me at:
+If you want to contact me I can be reached at:
 
 + Alexis.Athanasiou@bicworld.com  or at: 
 
